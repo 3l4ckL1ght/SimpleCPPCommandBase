@@ -2,7 +2,7 @@ SimpleCPPCommandBase
 ====================
 
 This main.cpp is a Command Base for your C++ Command. The sheme of command writing looks like this:<br>
-``command <subcommand> <[args]>``
+``command <subcommand> [args]``
 
 It is also possible to open a simulated console for this subcommands. It can be accessed by only writing the command name.
 

@@ -21,4 +21,4 @@ After that you built your first subcommand. It can now be executed as in the exa
 
 Working with the simulated console
 ----------------------------
-To use it, write only the command name without arguments. After that subcommands can be accessed like normal commands.
+To use it, write only the command name without arguments. After that, subcommands can be accessed like normal commands.

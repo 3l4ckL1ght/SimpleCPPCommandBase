@@ -17,7 +17,7 @@ Registering the Command
 The register function is in the CommandHandler private section. It is highlighted with a comment.
 To add your command use the same spelling as the test command got registered.
 
-After that you built your first subcommand. It can now be executed as in the example seen above.
+After that you built your first subcommand, it can now be executed as in the example seen above.
 
 Working with the simulated console
 ----------------------------

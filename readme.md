@@ -22,3 +22,4 @@ After that you built your first subcommand, it can now be executed as in the exa
 Working with the simulated console
 ----------------------------
 To use it, write only the command name without arguments. After that, subcommands can be accessed like normal commands.
+By debugging this console opens automatically.

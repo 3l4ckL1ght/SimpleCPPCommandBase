@@ -22,7 +22,7 @@ private:
 	std::string name;
 };
 
-class TestCommand : public Command {
+class TestCommand : public Command { // Example Command Class
 public:
 	TestCommand()
 		: Command("test") {}
@@ -60,6 +60,7 @@ private:
 	std::vector<Command*> commandList;
 
 	void registerCommands() {
+		// Command Classes can be added like this
 		commandList.push_back(new TestCommand);
 	}
 

@@ -24,4 +24,4 @@ Working with the simulated console
 To use it, write only the command name without arguments. After that, subcommands can be accessed like normal commands.
 By debugging this console opens automatically.
 
-It's a single file project for reading and testing. If you wan't to work with it, I recommend the full [Visual Studio Version](https://github.com/3l4ckL1ght/CustomCPPCommandHandler)
+> It's a single file project for reading and testing. If you wan't to work with it, I recommend the full [Visual Studio Version](https://github.com/3l4ckL1ght/CustomCPPCommandHandler)
